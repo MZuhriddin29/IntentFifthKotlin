@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/4AndroidApp/4.Intent/IntentFirstJava" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/4AndroidApp/4.Intent/IntentFourthJava" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/4AndroidApp/4.Intent/IntentFourthKotlin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/4AndroidApp/4.Intent/IntentThirdJava" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/4AndroidApp/4.Intent/IntentThirdKotlin" vcs="Git" />
+  </component>
+</project>
